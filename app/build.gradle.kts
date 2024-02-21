@@ -43,6 +43,7 @@ android {
 
 dependencies {
     implementation("androidx.work:work-runtime-ktx:2.9.0")
+    implementation("junit:junit:4.12")
     val nav_version = "2.3.5"
     val lifecycle_version = "2.7.0"
     val room_version = "2.6.1"
